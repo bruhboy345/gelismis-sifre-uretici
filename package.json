@@ -10,10 +10,12 @@
   "author": "",
   "license": "MIT",
   "engines": {
-    "node": "14.x"
+    "node": "12.x"
   },
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "fs": "0.0.1-security",
     "randomstring": "^1.1.5"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
