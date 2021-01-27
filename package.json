@@ -1,0 +1,19 @@
+{
+  "name": "sifre-uretici",
+  "version": "1.0.0",
+  "description": "Şifre Üretir ama dosyaya kaydeder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "randomstring": "^1.1.5"
+  }
+}
